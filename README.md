@@ -1,3 +1,3 @@
 # movie_chatbot
 
-Implementation from https://pytorch.org/tutorials/beginner/chatbot_tutorial.html  
+Recurrent seq2seq model trained on movie scripts from the Cornell Movie-Dialog Corpus. Learning project w/ tutorials
